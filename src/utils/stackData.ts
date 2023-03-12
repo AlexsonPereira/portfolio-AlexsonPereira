@@ -11,29 +11,50 @@ import { FaDocker } from "react-icons/fa";
 export const stackData = [
   {
     title: "HTML",
-    img: imgHTML,
+    img: "https://img.icons8.com/color/256/html-5.png",
   },
   {
     title: "CSS",
-    img: imgCSS,
+    img: 'https://img.icons8.com/color/256/css3.png',
   },
   {
     title: "JS",
-    img: imgJS,
+    img: 'https://img.icons8.com/color/256/javascript--v2.png',
   },
   {
     title: "Node JS",
-    img: imgNode,
+    img: 'https://img.icons8.com/fluency/256/node-js.png',
   },
   {
     title: "Styled Components",
-    img: imgStyled,
+    img: "https://img.icons8.com/color/256/styled-components.png",
   },
   {
     title: "React",
-    img: imgReact,
+    img: 'https://img.icons8.com/external-tal-revivo-color-tal-revivo/256/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png',
   },
-  { title: "Vuejs", img: FaVuejs },
-  { title: "TypeScript", img: SiTypescript },
-  { title: "Docker", img: FaDocker },
+  {
+    title: "React Native",
+    img: 'https://img.icons8.com/office/256/react.png',
+  },
+  { 
+    title: "TypeScript", 
+    img: 'https://img.icons8.com/color/256/typescript.png', 
+  },
+  { 
+    title: "Postgres", 
+    img: 'https://img.icons8.com/color/256/postgreesql.png', 
+  },
+  { 
+    title: 'Express Js', 
+    img: 'https://img.icons8.com/office/256/express-js.png', 
+  },
+  { 
+    title: 'Python', 
+    img: 'https://img.icons8.com/color/256/python.png', 
+  },
+  { 
+    title: 'Django', 
+    img: 'https://img.icons8.com/color/256/django.png', 
+  },
 ];
